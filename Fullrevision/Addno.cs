@@ -11,6 +11,7 @@ namespace Fullrevision
         static void Main()
         {
             Console.WriteLine("You are in the Endgame now!!!!!!!!!");
+            Console.WriteLine("I am new collaborator");
         }
         
     }
